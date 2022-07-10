@@ -6,7 +6,7 @@
 #include <stdio.h>
 /**
  * main  - prints "with proper grammar, but the outcome is a piece of art,"
- * Return : Zero 
+ * Return : Zero
  */
 int main(void)
 {
