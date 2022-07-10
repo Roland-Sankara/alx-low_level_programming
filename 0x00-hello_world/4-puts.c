@@ -2,7 +2,7 @@
 
 /**
  *
- * main  - Prints "Programming is like building a multilingual pu * zzle
+ * main  - Prints "Programming is like building a multilingual puzzle
  *  
  */
 
