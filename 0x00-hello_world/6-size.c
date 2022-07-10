@@ -1,6 +1,10 @@
+/*
+ * File: 6-size.c
+ * Roland Sankara
+ * /
 #include <stdio.h>
 /**
- *
+
  * main - prints the sizes of the datatypes
  * Return: always zero
  */
